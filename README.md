@@ -1,2 +1,3 @@
-# prepcourseHenrry
-Este es un repositorio de prueba
+Samuel Arrilucea
+
+Este proyecto es una prueba
